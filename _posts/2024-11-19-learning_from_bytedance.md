@@ -1,3 +1,7 @@
+---
+title: "learning_from_bytedance"
+date: 2024-11-19
+---
 # learning from bytedance
 
 https://www.lpolaris.com/article/notionedu
@@ -22,9 +26,9 @@ https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/
 
 [Swim transformer](learning%20from%20bytedance%20f12712a04ae04fe9b153ace3b4cd5839/Swim%20transformer%20c7fdf174112f436487a557a3870af33c.md)
 
-‣ 
+‣
 
-‣ 
+‣
 
 [训练损失函数](learning%20from%20bytedance%20f12712a04ae04fe9b153ace3b4cd5839/%E8%AE%AD%E7%BB%83%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%208b9b6592e53b44b4aa582eedea17658e.md)
 
